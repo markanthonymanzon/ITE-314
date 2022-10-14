@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\bin\Debug\ITE314_2ndProject_Manzon.exe.config
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\bin\Debug\ITE314_2ndProject_Manzon.exe
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\bin\Debug\ITE314_2ndProject_Manzon.pdb
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.Form1.resources
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.Properties.Resources.resources
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.exe
+C:\Users\acer\source\repos\ITE314_2ndProject_Manzon\ITE314_2ndProject_Manzon\obj\Debug\ITE314_2ndProject_Manzon.pdb
