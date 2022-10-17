@@ -6,6 +6,6 @@
 
 4. Design:
 
-ARITHMETIC
+           * ARITHMETIC
 
-POINT OF SALE
+           * POINT OF SALE
